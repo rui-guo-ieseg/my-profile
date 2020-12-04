@@ -1,0 +1,83 @@
+body {
+  background: #BEDBBB;
+  color: rgb(50, 50, 50);
+  font-family: 'East Sea Dokdo', cursive;
+  font-weight: 900;
+  font-size: 24px;
+}
+h1 {
+	color: green;
+	font-family: 'Big Shoulders Stencil Display', cursive;
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+}
+h2 {
+	color: #120078;
+	font-weight: bold;
+	font-family: 'Nerko One', cursive;
+}
+
+ul {
+	font-size: 24Px
+}
+
+a {
+	text-decoration: none;
+	color: #fd3a69;
+	font-weight: bold;
+}
+a:hover {
+		color: red;
+}  
+
+.container {
+	width:  700px;
+	margin: 40px auto;
+}  
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rbga(0,0,0,0.1);
+	border-radius: 4px;
+	border: 2px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50px;
+}
+
+.btn-pink  {
+	background-color: #fd3a69;
+	color: white;
+	padding:  10px 15px;
+	border-radius: 4px;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}	
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+
+#introduction p {
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
